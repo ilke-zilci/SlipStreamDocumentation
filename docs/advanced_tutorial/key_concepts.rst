@@ -70,6 +70,6 @@ Access control can be defined separately for the *User*, *Group* and
 *Public* levels. For each, different permissions for module actions can
 be granted (e.g. read, execute).
 
-Groups are dynamically defined, as a simple list of SlipStream users.
+Groups are dynamically defined, as a simple comma separated list of SlipStream users.
 These groups can be inherited from a parent module or defined manually
 for each module.
